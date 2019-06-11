@@ -1,13 +1,13 @@
 # springboot-project(Work in progress)
 
 # Api
-automatically generated REST API with spring-boot-starter-data-rest
+Automatically generated REST API with spring-boot-starter-data-rest
 
 # Data 
-automatically generated CRUD operations with JpaRepository for MySQL 
+Automatically generated CRUD operations with JpaRepository 
 
 # TODO
-- Use hibernate built in to automatically log user and map them to role <br>
+- Use hibernate built in to automatically authenticate user and map them to role <br>
 look if there is a fastest way to achieve the following with spring boot
 
 ```
